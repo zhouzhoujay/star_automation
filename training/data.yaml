@@ -1,0 +1,6 @@
+path: training/
+train: images/
+val: images/    # use same set for minimal training (later split)
+
+nc: 4
+names: ["hammer", "ok_button", "connect_button", "enter_game_button"]
